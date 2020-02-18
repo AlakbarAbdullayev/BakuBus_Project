@@ -1,0 +1,99 @@
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\MapC.exe.config
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\MapC.exe
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\MapC.pdb
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.csprojAssemblyReference.cache
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MainWindow.g.cs
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\App.g.cs
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC_MarkupCompile.cache
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC_MarkupCompile.lref
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MainWindow.baml
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.g.resources
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.Properties.Resources.resources
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.csproj.GenerateResource.cache
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.csproj.CoreCompileInputs.cache
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.csproj.CopyComplete
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.exe
+C:\Users\huse_ot12\source\repos\MapC\MapC\obj\Debug\MapC.pdb
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huse_ot12\source\repos\MapC\MapC\bin\Debug\Newtonsoft.Json.xml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.exe.config
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Newtonsoft.Json.dll
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Newtonsoft.Json.xml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csprojAssemblyReference.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MainWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\App.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC_MarkupCompile.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC_MarkupCompile.lref
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MainWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.g.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.Properties.Resources.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.GenerateResource.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.CoreCompileInputs.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.CopyComplete
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.pdb
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.exe.config
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.exe
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\MapC.pdb
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csprojAssemblyReference.cache
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MainWindow.g.cs
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\App.g.cs
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC_MarkupCompile.cache
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC_MarkupCompile.lref
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MainWindow.baml
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.g.resources
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.Properties.Resources.resources
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.GenerateResource.cache
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.CoreCompileInputs.cache
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.csproj.CopyComplete
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.exe
+C:\Users\Elekber\Desktop\WPF tapsiriqlar\MapC\MapC\obj\Debug\MapC.pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\MapC.exe.config
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\MapC.exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\MapC.pdb
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\Newtonsoft.Json.dll
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\bin\Debug\Newtonsoft.Json.xml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.csprojAssemblyReference.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MainWindow.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\App.g.cs
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC_MarkupCompile.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC_MarkupCompile.lref
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MainWindow.baml
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.g.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.Properties.Resources.resources
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.csproj.GenerateResource.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.csproj.CoreCompileInputs.cache
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.csproj.CopyComplete
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.exe
+\\STHQ01DC01\dfr$\abdu_yl84\Desktop\WPF tapsiriqlar(esas)\MapC\MapC\obj\Debug\MapC.pdb
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\MapC.exe.config
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\MapC.exe
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\MapC.pdb
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Alik\Desktop\BakuBus\MapC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.csprojAssemblyReference.cache
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MainWindow.g.cs
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\App.g.cs
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC_MarkupCompile.cache
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC_MarkupCompile.lref
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MainWindow.baml
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.g.resources
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.Properties.Resources.resources
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.csproj.GenerateResource.cache
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.csproj.CopyComplete
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.exe
+C:\Users\Alik\Desktop\BakuBus\MapC\obj\Debug\MapC.pdb
